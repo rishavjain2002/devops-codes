@@ -1,0 +1,4 @@
+data
+myenv
+source/__pycache__
+source/credentials.py
