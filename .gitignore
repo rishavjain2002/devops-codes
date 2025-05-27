@@ -1,0 +1,6 @@
+source/credentials.py
+source/__pycache__
+source/nohup.out
+data/
+.DS_Store
+myenv
