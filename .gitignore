@@ -1,0 +1,5 @@
+myenv 
+source/__pycache__
+source/globalVar.py
+.DS_Store
+# Python 3.10
