@@ -1,0 +1,4 @@
+source/credentials.py
+myenv
+*.pyc
+__pycache__
